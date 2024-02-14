@@ -24,4 +24,4 @@ Development of Soul Bound is facilitated by:
 - LATEX via Overleaf for documentation and collaborative writing.
 - Utilization of online libraries for assets to streamline development.
 
-Note: This README provides an overview of the game, its unique features, gameplay, target platform, development tools, and group coordination plan. For detailed documentation and updates, refer to the project's development resources.
+Note: This README provides an overview of the game, its unique features, gameplay, target platform, and development tools. For detailed documentation and updates, refer to the project's development resources.
